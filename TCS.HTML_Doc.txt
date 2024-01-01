@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tata Consultancy Services</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./tcs.css">
+</head>
+<body>
+<div class="container">
+        <div class="bhavi">
+             <img src="./dark-theme.svg" alt="" width="100px">
+        </div>
+       <div class="whi">
+        <p>
+            What we are &nbsp; &nbsp;
+            Who we are  &nbsp; &nbsp;
+            Insights &nbsp; &nbsp;
+            Careers &nbsp; &nbsp;
+            New & now &nbsp; &nbsp;
+            Investors &nbsp;
+        </p>
+
+        <div class="wit">
+            <p> 
+                CONTACT US &nbsp;
+                TCS WORLDWIDE
+            </p>
+            <div class="search">
+                <img src="./search.png" alt="" width="10px">
+            </div>
+
+             <div class="tata">
+                <img src="./atat.png" alt="" width="20px">
+
+             </div>
+        </div>
+    
+
+     <!-- <div class="navbar"><a href="#" class="icon"></a> -->
+       <!-- <ul> -->
+        
+            <!-- <li><a href="#"><h6>What we do</h6> </a></li>
+            <li><a href="#"><h6>Who we are</h6></a></li>
+            <li><a href="#"><h6>Insights</h6></a></li>
+            <li><a href="#"><h6>Careers</h6></a></li>
+            <li><a href="#"><h6>Investors</h6></a></li>
+            <li><a href="#"><h6>contact us</h6></a></li>
+            <li><a href="#"><h6>tcs worldwide</h6></a></li>
+            <li><a href="#"><i class="fa-solid fa-building"></i></a> -->
+        <!-- </div> -->
+</div>
+</div>
+
+<div class="putta">
+
+      <div class="content">
+        <img src="./putta.webp" alt="" height="200px" width="500px">
+      </div>
+        <div class="content1"><h1>
+            Collaboration for<br>
+            transformation
+        </h1><br>
+
+        <p><h6>Our strategic know-how can help you navigate
+            your enterprise application<br> landscope for success at scale
+        </h6></p><br>
+        <!-- <div><button><span></span>Know more</button></div> -->
+     </div>
+     
+</div> 
+
+  <div class="task">
+        <div>
+            <h2>Snapshots</h2>
+        </div><br>
+        
+
+        <div class="Bettertickets" >
+            <img src="./blackticke.jpeg" alt="" height="60px">
+        </div>
+        <div class="tick">
+            <br>
+            <h6>Better tickets</h6>
+        </div>
+        
+        <div class="theright ">
+            <img src="./tick.jpeg" alt="-" height="53px">
+        </div>
+            <br>
+            <div class="right">
+            <h6>The right track</h6>
+           </div>
+       
+           <div class="up">
+            <img src="./up.jpeg" alt="" height="53px">
+           </div>
+
+           <div class="power">
+            <h6>Power up</h6></div>
+
+        <div class="natural">
+            <img src="./manu.jpeg" alt="" height="53px">
+
+        </div>
+          
+        <div class="manu">
+            <h6>Neural<br>
+                manufacturing
+            </h6>
+        </div>
+        <div class="bots">
+            <img src="./bots.jpeg" alt="" height="53px">
+
+        </div>
+       <div class ="with">
+        <h6>Insurance bots</h6>
+        </div>
+
+        <div class="med">
+            <img src="./mid.jpeg" alt="" height="53px">
+
+        </div>
+
+        <div class="head"><h6>Ahead with<br>Med</h6>
+
+        </div>
+        <div class="rush">
+            <img src="./rush.jpeg" alt="" height="53px">
+
+        </div>
+        <div class="suger">
+            <h6>A digital sugar<br>rush</h6>
+        </div>
+        <div class="local">
+            <img src="./local.jpeg" alt="" height="53px">
+
+        </div>
+
+        <div class="real"><h6>Virtual worlds,<br>real privacy<br>concerns</h6></div>
+        <br>
+        <br>
+        <br>
+
+       
+        <div class="grey">
+            <img src="./darkgrey.webp" alt="" width="200px" height="150px">
+
+        </div>
+
+        <div class="weo">
+            Are you leveraging <br>
+            your competitive <br>
+            advantage with cloud?
+
+
+        </div>
+        <div class="woe">
+            <h2><strong>&#8666 </strong>Yes</h2> 
+
+        </div>
+        <div class="wo">
+            <h2>No<strong>&#8667</strong></h2>
+
+        </div>
+        
+        <div class="global">
+            <h6>GLOBAL THOUGHT LEADERSHIP STUDY</h6>
+
+        </div>
+        <div class="answer">
+            <h2>
+                Answer a few<br>
+                questions to unlock<br>
+                insights Investor<br>
+                innovation with <br>
+                cloud
+            </h2>
+        </div>
+    </div>
+
+   <div class="by">
+     
+    <div class ="interest"><br><br><br><br>Insights by interest</div><br>
+    
+
+    <div class = "and">
+         <img src="./health.jpg" alt="" height="200px" width="180px" The ><button class="btn">Health & Wellness
+            </button>
+            <div class="text-block">
+        <p>The metaverse meets modern<br>medicine </p>
+            </div>
+         <div class="oy">
+                <p>READ MORE</p>
+    
+         </div>
+        
+    
+    </div>
+
+    <div class ="cyb"> 
+        <img src="./cyb.webp" alt="" height="200px" width="180px" ><button class="ty">Cybersecurity</button>  
+         
+        <div class="read-block">
+            <p>The C-suite's cybersecurity <br>considerations</p>
+
+        </div>
+        <div class="op">
+            <p>READ MORE</p>
+
+        </div>
+    </div> 
+
+    <div class ="cb"> 
+        <img src="./ana.jpeg" alt="" height="200px" width="180px"><button class="td">Data & Analytics</button>
+         
+        <div class="wrote-block">
+            <p>Flattening fintech fraud</p>
+        </div>
+        <div class="oyp">
+            <p>READ MORE</p>
+
+        </div>
+    </div> 
+
+       
+ </div>
+
+            
+<div class="buy">
+    <div class="pu">
+       <br><br><br> Discover the TCS difference<br>
+
+    </div>
+   <br>
+     <div class="de">
+        <img src="./buy.jpg" alt="" height="300px" width="600px">
+
+               
+             <div class="box1">
+                       
+                    <div class="po">
+                       AI & CLOUD<br><br>
+                       75% of organizations <br>
+                       invested in AI & ML in <br>
+                       the past 2 years
+
+                    </div>
+                                      
+                </div>
+                <div class="box2">
+                       
+                    <div class="po2">
+                       RECOGNITION<br><br>
+                       IDC Marketscape <br>
+                       lauds our holistic <br>
+                       approach
+
+                    </div>
+                                      
+                </div>
+                <div class="box3">
+                       
+                    <div class="po3">
+                       TCS BANCS<br><br>
+                       Building a bank for <br>
+                       the future
+                    
+
+                    </div>
+                                      
+                </div>
+                <div class="box4">
+                       
+                    <div class="po4">
+                       RECOGNITION<br><br>
+                       Women are 42% <br>
+                       our 9000+ workforce
+                    
+
+                    </div>
+                                      
+                </div>
+            
+
+        </div>
+
+        
+        <div class="butt"><button>Learn More</button></div>
+
+        <div class="id">
+            <p>
+                <h3>
+                    Our global study finds that<br>
+                cloud and AI are a priority<br>
+                despite headwinds
+
+                </h3>            </p>
+
+        </div>
+    </div>
+
+   
+
+
+<div class="upto">
+    <!-- <div class ="interest1"><br>Insights by interest</div><br> -->
+  <div class = "ih">
+    <img src="./pt.webp" alt="" height="300px" width="300px">
+    </div>
+  </div>
+   <div class="ih1">
+    <p>
+        <strong>WHO WE ARE</strong><br><br>
+        <h2>
+            We build greater futures <br>
+            through innovation and
+            <br>collective knowledge.
+        </h2>
+        <h6>
+            <br>TCS is an IT Services, consulting and business solutions<br>
+            <br> organization that has been partnering with many of th<br>
+             <br>world's largest businesses in their transformation journeys<br>
+             <br>for over 50 years
+        </h6>
+
+        <strong><p><h3><br>Get to know us &#8680;</h3></p></strong>
+    
+
+    </p></div>
+
+   <div class="main">
+      <div class="txt">
+       <br><br><br><br><br>Belief in action<br><br>
+      </div>
+     <div class="image1">
+        <img src="./image1.webp" alt="" height="210px" width="170px">
+
+        <div class="text2">
+            <strong>A nex, nimble<br>NWC<br></strong>
+            <h6>Saudi Arabia's National Water<br>
+                Company consolidates and<br>
+                transforms comprehensively<br>
+            </h6>
+        </div>
+        <div class="more1">
+            <p>READ MORE</p>
+
+        </div>
+    </div> 
+
+     <div class="image2">
+        <img src="./image2.webp" alt="" height="210px" width="170px">
+
+        <div class="text3">
+            <strong>Gaining<br>Momentum with <br>AI<br></strong>
+            <h6>South-African insuer<br>
+                Momentum Metropolitan delivers<br>
+                chatbot service automatin and<br>better CX<br>
+                  </h6>      </div>
+        <div class="more2">
+            <p>READ MORE</p>
+        </div>
+     </div>
+
+     <div class="image3">
+        <img src="./img3.webp" alt="" height="210px" width="170px">
+
+        <div class="text4">
+            <strong>Gaining<br>Momentum with <br>AI<br></strong>
+            <h6>South-African insuer<br>
+                Momentum Metropolitan delivers<br>
+                chatbot service automatin and<br>better CX<br>
+                  </h6>      </div>
+        <div class="more3">
+            <p>READ MORE</p>
+        </div>
+     </div>
+     
+
+     <div class="image4">
+        <img src="./img5.jpg" alt="" height="210px" width="170px">
+        
+
+        <div class="text5">
+            
+            <strong><h3>Colruyt's retail<br>revitalized</h3></strong>
+            <h6>TCS helps deliver on brand<br>
+                promise with next-gen pricing<br>
+                engine<br>
+                  </h6>      </div>
+        <div class="more4">
+            <p>READ MORE</p>
+        </div>
+     </div>
+    </div> 
+</div>
+  
+
+<div class="moni">
+    <div class="ts">
+        <img src="./tc1.avif" alt="" height="300px" width="390px">
+    </div>
+    
+   
+    <div class="tx1">
+        <p>
+            <strong><h6>WHAT WE DO</h6><br></strong>
+            <h3>TCS transforms businesses<br>through technology<br><br></h3>
+            we help businesses successfully navigate digital<br>
+            transformation and drive real growth. drawing on the 
+            combined power of experience and contextual knowledge.<br>across a vast ecosystem of expertise
+            
+            <strong><p><h3><br>Get to know us &#8680;</h3></p></strong>
+            
+     </p>
+
+    </div>
+
+</div>
+
+</div>
+
+
+    <!-- <div class="man-box">
+            <div class="box1">
+                <h3>Industries</h3><a href="#">Banking</a>
+                <a href="#">Capital Markets</a>
+                <a href="#">Consumer Goods and Information</a>
+                <a href="#">Communications, Media, and Information<br>services</a>
+                <a href="#">education</a>
+                <a href="#">7</a>
+                <a href="#">Healthcare</a>
+                <a href="#">High Tech</a>
+                <a href="#">Insurance</a>
+                <a href="#">Manufacturing</a>
+                <a href="#">Manufacturing</a>
+                <a href="#">Public Services</a>
+                <a href="#">Retail</a>
+                <a href="#">Travel and Logistics</a>
+            
+
+            </div>
+
+         </div>
+        -->
+
+<!-- </section> -->
+<!--  -->
+
+
+<div class="footer">
+    <div class="line1">
+        <p>
+            <strong><br><br>Industries<br><br></strong>
+            <h6>Banking<br><br></h6>
+            <h6>Capital Markets<br><br></h6>
+            <h6>Consumer Goods and Information<br><br></h6>
+            <h6>Communications, Media, and <br>Information services<br><br></h6>
+            <h6>education<br><br></h6>
+            <h6>Energy, Resources, and Utilities<br><br></h6>
+            <h6>Healthcare<br><br></h6>
+            <h6>High Tech<br><br></h6>
+            <h6>Insurance<br><br></h6>
+            <h6>Life Science<br><br></h6>
+            <h6>Manufacturing<br><br></h6>
+            <h6>Public Services<br><br></h6>
+            <h6>Retail<br><br></h6>
+            <h6>Travel and Logistics<br><br></h6>
+
+        </p>
+
+    </div>
+  <div class="line2">
+    <p>
+    <strong>Services<br><br></strong>
+    <h6>Cloud<br><br></h6>
+    <h6>Cognitive Business Operations<br><br></h6>
+    <h6>Consulting<br><br></h6>
+    <h6>Cybersecurity<br><br></h6>
+    <h6>Data and Analytics<br><br></h6>
+    <h6>Enerprise Solutions<br><br></h6>
+    <h6>loT and Digital Engineering<br><br></h6>
+    <h6>Sustainability Services<br><br></h6>
+    <h6>TCS Interactive<br><br></h6>
+    <h6>TCS and AWS Cloud<br><br></h6>
+    <h6>TCS Enterprise Cloud<br><br></h6>
+    <h6>TCS and Google Cloud<br><br></h6>
+    <h6>TCS and Microsoft Cloud</h6>
+
+
+    </p>
+
+  </div>
+
+
+
+
+  <div class="line3">
+    <p>
+        <strong>Product and Platforms<br><br></strong>
+        <h6>TCS ADD<sup>TM</sup></h6>
+        <h6><br>TCS BaNCS<sup>TM</sup></h6>
+        <h6><br>TCS BFSI Platforms</h6>
+        <h6><br>TCS CHROMA<sup>TM</sup></h6>
+        <h6><br>TCS Customer Intelligence & Insights<sup>TM</sup></h6>
+        <h6><br>TCS ERP on CLOUD</h6>
+        <h6><br>ignio<sup>TM</sup>&#8667</h6>
+        <h6><br>TCS HOBS<sup>TM</sup></h6>
+        <h6><br>TCS Intelligent Urban Exchange<sup>TM</sup></h6>
+        <h6><br>TCS OmniStore<sup>TM</sup></h6>
+        <h6><br>TCS Optumera<sup>TM</sup></h6>
+        <h6><br>TCS TAP<sup>TM</sup></h6>
+        <h6><br>Quartz<sup>TM</sup>-The Smart Ledgers<sup>TM</sup></h6>
+        <h6><br>TCS TwinX<sup>TM</sup></h6>
+        <h6><br>TCS MasterCraft<sup>TM</sup></h6>
+        <h6><br>Jile<sup>TM</sup>&#8667</h6>
+        <h6><br>TCS iON<sup>TM</sup>&#8667</h6>
+    </p>
+
+  </div>
+
+
+  <div class="line4">
+     <p>
+        <strong>Insights</strong>
+        <h6><br>Customer Stories</h6>
+        <h6><br>Cloud</h6>
+        <h6><br>Blockchain</h6>
+        <h6><br>loT</h6>
+        <h6><br>Metaverse</h6>
+        <h6><br>Health and Wellness</h6>
+        <h6><br>Sustainability</h6>
+        <h6><br>AI and ML</h6>
+        <h6><br>Cybersecurity</h6>
+        <h6><br>Perspectives</h6>
+        <strong><br>More Information</strong>
+        <h6><br>Careers</h6>
+        <h6><br>Corporate Social Responsibility</h6>
+        <h6><br>Diversity, Equity and Inclusion</h6>
+        <h6><br>Invetor Relations</h6>
+        <h6><br>Sports Sponsorships</h6>
+        <h6><br>TCS Pace<sup>TM</sup></h6>
+        <h6><br>TCS Research</h6>
+        <h6><br>The TCS Way</h6>
+        <h6><br>Who we are</h6>
+     </p>
+
+  </div>
+</div>
+
+<!-- <center> -->
+
+<div class="footer2">
+    <div class="pic1">
+        <img src="./pic1.svg" alt="" width="100px" height="40px">
+
+    </div>
+   
+    <div class="pic2">
+        <img src="./fb.png" alt="" width="20px" height="20px">
+
+    </div>
+    
+    <div class="pic3">
+        <img src="./youtube.png" alt="" width="45px" height="45px" >
+
+    </div>
+
+    <div class="pic4">
+        <img src="./twitter.png" alt="" width="25px" height="25px">
+
+    </div>
+    
+    <div class="pic5">
+        <img src="./insta.webp" alt="" width="20px" height="20px">
+
+    </div>
+
+    <div class="pic6">
+
+        <img src="./in.png" alt="" width="15px" height="15px">
+    </div>
+
+    <div class="pic7">
+        <strong>@2023 TATA Consultancy Services Limited</strong>
+    </div>
+
+    <div class="pic8">
+        <p>
+            Privacy Notice &nbsp; Cookie Policy &nbsp; Disclaimer<br>
+           <br> Security Policy &nbsp; Customize Cookies
+        </p>
+
+    </div>
+
+
+
+
+
+</div>
+
+<!-- </center> -->
+
+
+
+
+</div>
+
+
+    
+
+
+</body>
+</html>
